@@ -4,7 +4,7 @@
 
 </br>
 
-### Please help me to increase my knowledge about rust(seriously, can be anything). Just look this project and open a PR about what you want to modify or teach me what i can do better on this project(with you find some english error, please open a issue or a pr too, feel free).  I want to know about cross compilation and make this project be the most perfomaticly as possible.
+Please help me to increase my knowledge about rust(seriously, can be anything). Just look this project and open a PR about what you want to modify or teach me what i can do better on this project(with you find some english error, please open a issue or a pr too, feel free).  I want to know about cross compilation and make this project be the most perfomaticly as possible.
 
 </br>
 
