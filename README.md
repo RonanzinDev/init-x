@@ -1,4 +1,4 @@
-#Init-X
+# Init-X
 
 ### A package to automatic your project (is just for studies about rust yet)
 
