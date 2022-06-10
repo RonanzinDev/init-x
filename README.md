@@ -24,3 +24,10 @@ cargo r // to run the project
 ```
 cargo build // to build the project
 ```
+
+### Todo:
+[ ]  Get the languages from the args
+
+[ ] make the program run npm init and npm i
+
+[ ] get dependencies over the args
